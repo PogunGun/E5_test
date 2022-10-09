@@ -13,4 +13,4 @@
 Готовое задание.
 Скриншоты.
 Главная страница
-![glav](https://ibb.co/DVnHbPD)
+![glav](https://drive.google.com/file/d/1gOcPcwg_zRrspCz3-OU1EozDj8WYRo4y/view?usp=sharing)
