@@ -1,16 +1,16 @@
-# test_e5_sys
+#Тестовое задание: ####Реализовать галерею на базе React-Native (не React.js) которая будет отображать фотографии из unsplash. Это приложение должно извлекать ресурс в формате JSON. Документация REST API : https://unsplash.com/documentation
 
-A new Flutter project.
+Токен к API моно получить или использовать следующие: https://api.unsplash.com/photos/?client_id=ab3411e4ac868c2646c0ed488dfd919ef612b04c264f3374c97fff98ed253dc9
+Приложение должно содержать два экрана(страницы):
 
-## Getting Started
+Список
+мини изображение с названием и автором
+когда пользователь нажимает на изображение, открывается экран фотографии
+Фотография
+отображает одну фотографию с максимальной площадью.
+Предпочтительнее инициировать приложение через React Native CLI с помощью команды - react-native init TestApp, нежели чем через команду - create-react-native-app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Готовое задание.
+Скриншоты.
+Главная страница
+![glav](https://ibb.co/DVnHbPD)
