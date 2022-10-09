@@ -13,4 +13,5 @@
 Готовое задание.
 Скриншоты.
 Главная страница
-![glav](https://drive.google.com/file/d/1gOcPcwg_zRrspCz3-OU1EozDj8WYRo4y/view?usp=sharing)
+![first](https://user-images.githubusercontent.com/76246480/194773131-458ca8e4-18a7-4bb0-bd36-d844a6e018aa.png)
+![second](https://user-images.githubusercontent.com/76246480/194773138-8d2a8cf7-9a82-4b09-a59e-44d043683b10.png)
